@@ -2,4 +2,4 @@
 TheTechNerds' Website
 
 
-© [thetechnerds.net] All rights reserved 2020
+© [thetechnerds.net](www.thetechnerds.net) All rights reserved 2020
