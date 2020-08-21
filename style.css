@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.6em;
+    width: 80%;
+    margin: auto;
+    
+}
+
+#mainHeader{
+    background: #333;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+  
+}
+#mainNav{
+    background: #ccc;
+    color: black;
+
+}
+#mainNav ul{
+    padding: 0; 
+    margin: 0;
+    list-style: none;
+
+}
+#mainNav li{
+    display: inline;
+    padding: 5px 10px;
+}
+#mainNav a{
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+
+}
+#mainNav li:hover {
+    background: #aaa;
+}
+
+#test{
+    background: green;
+}
+.container{
+    width: 80%; 
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+    
+}
