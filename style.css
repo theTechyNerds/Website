@@ -2,21 +2,29 @@ body{
     margin: 0;
     font-size: 16px;
     line-height: 1.6em;
-    width: 80%;
-    margin: auto;
+    
     
 }
-
+.container{
+    width: 80%; 
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+    
+}
 #mainHeader{
     background: #333;
     color: white;
     text-align: center;
     font-size: 25px;
+    width: 100%;
   
 }
 #mainNav{
     background: #ccc;
     color: black;
+    width: 65%;
+    margin: auto;
 
 }
 #mainNav ul{
@@ -39,13 +47,10 @@ body{
     background: #aaa;
 }
 
-#test{
-    background: green;
-}
-.container{
-    width: 80%; 
-    margin: auto;
-    overflow: hidden;
-    text-align: center;
+#mainFooter{
+    color:white;
+    background: grey;
+    
     
 }
+
